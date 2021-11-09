@@ -16,4 +16,4 @@ The output file is a folder containing:
 - semantic image tiles
 - a folder with JSON annotations in the COCO format
 
-Besides, if the user selects point shapefiles for training, validation, and testing, there will be 10 folders (3 for original image tiles, 3 for panoptic image tiles, 3 for semantic image tiles, and one for all JSON annotations). The user must choose at least on Point Shapefile for the training set.
+Besides, suppose the user selects point shapefiles for training, validation, and testing. In that case, there will be ten folders (3 for original image tiles, 3 for panoptic image tiles, 3 for semantic image tiles, and one for all JSON annotations). The user must choose at least one Point Shapefile for the training set.
